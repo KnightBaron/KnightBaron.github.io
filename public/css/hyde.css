@@ -65,8 +65,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    /* width: 18rem; */
-    width: 21.5rem; /* To be able to contain my name... */
+    width: 18rem;
     text-align: left;
   }
 }
@@ -81,7 +80,8 @@ html {
   color: #fff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  /*font-size: 3.25rem;*/
+  font-size: 2.5rem;  /* NOTE: To be able to contain my name */
 }
 
 /* Sidebar nav */
