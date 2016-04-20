@@ -17,3 +17,6 @@ author:
   url:            https://knightbaron.github.io
 
 paginate:         5
+
+# Custom
+index_title:      Profile  # Used in the sidebar
