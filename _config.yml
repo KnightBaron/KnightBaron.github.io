@@ -6,20 +6,14 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            "Pongsakorn<br>U-chupala"
-tagline:          "Pongsakorn U-chupala's profile"
+title:            "Pongsakorn U&#8209;chupala"
+tagline:          "Pongsakorn U&#8209;chupala's profile"
 description:      'Ph.D. Student'
 url:              https://knightbaron.github.io
 baseurl:          /
 
 author:
-  name:           'Pongsakorn U-chupala'
+  name:           'Pongsakorn U&#8209;chupala'
   url:            https://knightbaron.github.io
 
 paginate:         5
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
