@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Hello
+title: Publications
 ---
 
 Hello world!!
-
