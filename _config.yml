@@ -9,12 +9,12 @@ permalink:        pretty
 title:            "Pongsakorn U&#8209;chupala"
 tagline:          "Pongsakorn U&#8209;chupala's profile"
 description:      'Ph.D. Student'
-url:              https://knightbaron.github.io
+url:              https://puchupala.com
 baseurl:          /
 
 author:
   name:           'Pongsakorn U&#8209;chupala'
-  url:            https://knightbaron.github.io
+  url:            https://puchupala.com
 
 paginate:         5
 
