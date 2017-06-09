@@ -24,7 +24,7 @@ OpenFlow controller for bandwidth and latency aware routing implemented with POX
 
 ### [PRAGMA Boot](https://github.com/pragmagrid/pragma_boot) _(2013-2014)_
 
-A program to instantiate VM in PRAGMA’s cloud. Responsible for OpenNebula plugin written in Ruby.
+A program to instantiate VM in PRAGMA’s cloud. Responsible for the OpenNebula plugin written in Ruby and the storage driver architecture including the drivers for HTTP, S3 and Amazon CloudFront, all written in Python.
 
 ### eCOStamp _(2013-2014)_
 
