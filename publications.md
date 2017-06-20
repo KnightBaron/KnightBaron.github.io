@@ -3,6 +3,8 @@ layout: page
 title: Publications
 ---
 
+<u>P. U-chupala</u>, Y. Watashiba, K. Ichikawa, S. Date, and H. Iida, **“Application-aware network: network route management using SDN based on application characteristics,”** CSI Transactions on ICT, pp. 1–11, 2017.
+
 <u>P. U-chupala</u>, Y. Watashiba, K. Ichikawa, S. Date, and H. Iida, **“Container Rebalancing: Towards Proactive Linux Containers Placement Optimization in a Data Center,”** in The 41th IEEE Computer Society International Conference on Computers, Software & Applications (COMPSAC), 2017.
 
 K. Ichikawa et al., **“PRAGMA-ENT: An International SDN testbed for cyberinfrastructure in the Pacific Rim,”** Concurrency and Computation: Practice and Experience, February, 2017.
