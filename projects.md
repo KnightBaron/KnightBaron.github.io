@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-### [GaineViz](http://centrahack01.acis.ufl.edu) _(2017)_
+### [GaineViz](https://github.com/centrahackathon2017/bdvis) _(2017)_
 
 Web-based visualization tool for Gainesville city’s open-data. Best hack award, CENTRA2 Student Hackathon.
 
