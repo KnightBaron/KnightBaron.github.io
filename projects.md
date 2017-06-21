@@ -56,7 +56,7 @@ Web-based multiplayer game inspired by CivilizationTM written with Django and jQ
 
 ### Justwords _(2007)_
 
-Online quote repository written in PHP with Doctrine. Best technical award, INET Young Webmaster Camp 6.
+Online quote repository written in PHP with Doctrine and self-developed MVC framework. Best technical award, INET Young Webmaster Camp 6.
 
 ### The Zenith _(2005)_
 
