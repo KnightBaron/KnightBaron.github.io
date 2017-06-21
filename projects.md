@@ -54,6 +54,10 @@ Social media analytics platform. Responsible for the early version of TwitterTM 
 
 Web-based multiplayer game inspired by CivilizationTM written with Django and jQuery. The 3rd place in Web Contest section, National Software Contest (NSC) 2010
 
+### Justwords _(2007)_
+
+Online quote repository written in PHP with Doctrine. Best technical award, INET Young Webmaster Camp 6.
+
 ### The Zenith _(2005)_
 
  Scrolling shooter game. Consolidation award in Entertainment section, National Software Contest (NSC) 2005
