@@ -3,6 +3,10 @@ layout: page
 title: Projects
 ---
 
+### [NNabla](https://nnabla.org/) _(involvement: 2018-present)_
+
+Sony’s MPI-based high-performance deep learning framework. Responsible for distributed learning performance optimization.
+
 ### [GaineViz](https://github.com/centrahackathon2017/bdvis) _(2017)_
 
 Web-based visualization tool for Gainesville city’s open-data. Best hack award, CENTRA2 Student Hackathon.
