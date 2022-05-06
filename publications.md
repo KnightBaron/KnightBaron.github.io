@@ -3,9 +3,11 @@ layout: page
 title: Publications
 ---
 
+(Affiliate) H. Wang, S. Agarwal, and D. Papailiopoulos, **"PUFFERFISH: Communication-efficient Models at No Extra Cost,"** in The Fourth Conference on Machine Learning and Systems (MLSys), 2021
+
 H. Mikami, H. Suganuma, <u>P. U-chupala</u>, Y. Tanaka, and Y. Kageyama, **“ImageNet/ResNet-50 Training in 224 Seconds,”** arXiv:1811.05233 [cs.LG], 2018.
 
-<u>P. U-chupala</u>, Y. Watashiba, K. Ichikawa, S. Date, and H. Iida, **“Application-aware network: network route management using SDN based on application characteristics,”** CSI Transactions on ICT, pp. 1–11, 2017.
+<u>P. U-chupala</u>, Y. Watashiba, K. Ichikawa, S. Date, and H. Iida, **“Application-aware network: network route management using SDN based on application characteristics,”** in CSI Transactions on ICT, pp. 1–11, 2017.
 
 <u>P. U-chupala</u>, Y. Watashiba, K. Ichikawa, S. Date, and H. Iida, **“Container Rebalancing: Towards Proactive Linux Containers Placement Optimization in a Data Center,”** in The 41th IEEE Computer Society International Conference on Computers, Software & Applications (COMPSAC), 2017.
 

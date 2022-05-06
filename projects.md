@@ -3,6 +3,8 @@ layout: page
 title: Projects
 ---
 
+### [Homebridge Nature Remo Multi Toggle Light](https://www.npmjs.com/package/@puchupala/homebridge-nature-remo-multi-toggle-light) _(2021-present)_
+
 ### [NNabla](https://nnabla.org/) _(involvement: 2018-present)_
 
 Sony’s MPI-based high-performance deep learning framework. Responsible for distributed learning performance optimization.
