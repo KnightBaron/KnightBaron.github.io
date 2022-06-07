@@ -15,18 +15,18 @@ Sony’s MPI-based high-performance deep learning framework. Responsible for dis
 
 Web-based visualization tool for Gainesville city’s open-data. Best hack award, CENTRA2 Student Hackathon.
 
-### Applying Deep Learning to Network Traffic Identification and Categorization _(2016-present)_
+### Applying Deep Learning to Network Traffic Identification and Categorization _(2016-2018)_
 
 The CAIDA Internet traffic dataset is analyzed with stacked denoising autoencoder implemented with TensorFlow. A part of the development an automatic network enhancing cycle with application-aware routing. Also a part of Creative and International Competitiveness Project (CICP2016) supported by NAIST.
 
 ### Container Rebalancing _(2015-2017)_
 A novel scheduling mechanism with a rebalancing processing working alongside a scheduling process. A Hadoop/Hive-powered data processing technique and a Python-based event-driven simulation using Google's cluster data is performed to validate this method.
 
-### [PRAGMA-ENT](https://github.com/pragmagrid/pragma_ent/wiki) _(2014-present)_
+### [PRAGMA-ENT](https://github.com/pragmagrid/pragma_ent/wiki) _(involvement: 2014-2018)_
 
 Breakable international SDN testbed for PRAGMA community. Shared administration responsibility over sites at NAIST, Osaka University, University of California San Diego and University of Florida.
 
-### [Overseer: Application-Aware Routing](https://github.com/KnightBaron/overseer) _(2013-present)_
+### [Overseer: Application-Aware Routing](https://github.com/KnightBaron/overseer) _(2013-2018)_
 
 OpenFlow controller for bandwidth and latency aware routing implemented with POX. Master’s thesis.
 
