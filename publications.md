@@ -7,11 +7,19 @@ title: Publications
 
 H. Mikami, H. Suganuma, <u>P. U-chupala</u>, Y. Tanaka, and Y. Kageyama, **“ImageNet/ResNet-50 Training in 224 Seconds,”** arXiv:1811.05233 [cs.LG], 2018.
 
+<u>P. U-Chupala</u>, Y. Watashiba, K. Ichikawa, and H. Iida, **“Towards Self-Optimizing Network: Applying Deep Learning to Network Traffic Categorization and Identification in the Context of Application-Aware Network”** , IPSJ SIG Internet and Operation Technology (IOT), 2018.
+
+<u>P. U-chupala</u>, **“Increasing Data Center Efficiency with Improved Task Scheduling and Communication”**, Nara Institute of Science and Technology, 2018.
+
+K. Ichikawa et al., **“Dynamic International SDN and Inter-Cloud Infrastructure,”** in The 2nd RICC-RIEC workshop, 2017.
+
 <u>P. U-chupala</u>, Y. Watashiba, K. Ichikawa, S. Date, and H. Iida, **“Application-aware network: network route management using SDN based on application characteristics,”** in CSI Transactions on ICT, pp. 1–11, 2017.
 
 <u>P. U-chupala</u>, Y. Watashiba, K. Ichikawa, S. Date, and H. Iida, **“Container Rebalancing: Towards Proactive Linux Containers Placement Optimization in a Data Center,”** in The 41th IEEE Computer Society International Conference on Computers, Software & Applications (COMPSAC), 2017.
 
 K. Ichikawa et al., **“PRAGMA-ENT: An International SDN testbed for cyberinfrastructure in the Pacific Rim,”** Concurrency and Computation: Practice and Experience, February, 2017.
+
+S. Date et al., **“SDN-accelerated HPC infrastructure for scientific research,”** in International Journal of Information Technology (IJIT), 2016
 
 S. Date et al., **“An Empirical Study of SDN-accelerated HPC Infrastructure for Scientific Research,”** in 2015 International Conference on Cloud Computing Research and Innovation (ICCCRI), 2015, pp. 89–96.
 
@@ -21,7 +29,7 @@ K. Ichikawa et al., **“PRAGMA-ENT: Exposing SDN Concepts to Domain Scientists 
 
 <u>P. U-chupala</u>, K. Ichikawa, H. Iida, N. Kessaraphong, P. Uthayopas, S. Date, H. Abe, H. Yamanaka, and E. Kawai, **“Application-Oriented Bandwidth and Latency Aware Routing with OpenFlow Network,”** in The 6th IEEE International Conference on Cloud Computing Technology and Science (CloudCom), 2014.
 
-<u>P. U-chupala</u>, K. Ichikawa, P. Uthayopas, S. Date, and H. Abe, **“Designing of SDN-Assisted Bandwidth and Latency Aware Route Allocation,”** in Summer United Workshops on Parallel, Distributed and Cooperative Processing (SWoPP ), 2014.
+<u>P. U-chupala</u>, K. Ichikawa, P. Uthayopas, S. Date, and H. Abe, **“Designing of SDN-Assisted Bandwidth and Latency Aware Route Allocation,”** in Summer United Workshops on Parallel, Distributed and Cooperative Processing (SWoPP), 2014.
 
 <u>P. U-chupala</u>, P. Uthayopas, K. Ichikawa, S. Date, and H. Abe, **“An implementation of a multi-site virtual cluster cloud,”** in The 2013 10th International Joint Conference on Computer Science and Software Engineering (JCSSE), 2013, pp. 155–159
 
